@@ -17,7 +17,7 @@ Utilizing an ATMega 328 chip, this module can be easily programmed with the Ardu
 
 I'll be updating this part soon with a link to buy on Reverb.
 
-# Slave
+# Western
 
 #### [Overview](#overview1) | [Design](#design1) | [Buy](#buy1)
 
