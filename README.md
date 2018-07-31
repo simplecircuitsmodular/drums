@@ -21,5 +21,11 @@ This is the parts list. A Mouser BOM is available at in this file as well.
 This is the panel in Adobe Illustrator format. This can be used to manufacture a panel, which I do with 1/8" acrylic and a laser cutter.
 
 ## Updates
-### 01 24JUN18
+### 01 
+
+##### 30JUL18
+
+Verified design. All functions work, though two issues were found. Added values to Eagle files for resistors and capacitors. Updated .brd to fix ISP issue, though this is currently untested. All signals were rerouted.
+
+##### 24JUN18
 First push to GitHub. Currently this design is untested.
