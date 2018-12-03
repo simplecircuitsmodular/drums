@@ -27,4 +27,4 @@ Utilizing an ATMega 328 chip, this module can be easily programmed with the Ardu
 
 ### Buy
 
-I'll be updating this part soon with a link to buy PCBs on Reverb. For the time being you can email me to purchase development PCBs at a discount. These will be fully functional but have minor issues
+I'll be updating this part soon with a link to buy PCBs on Reverb. For the time being you can email me to purchase development PCBs at a discount. These will be fully functional but have minor issues. In the case of the Drum PCBs, the programming header must be soldered to the front side of the PCB, meaning the front panel must be removed to program the module. In addition, the back of the board is missing silk screen. 
