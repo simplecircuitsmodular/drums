@@ -9,12 +9,12 @@ These modules features 6 individually triggered and tuned drum voices in one mod
 
 ## Files
 ### westernDrums_01.ino and latinDrums_01.ino
-This is the Arduino code. An ISP header on the board allows the microcontroller to be programmed directly.
+This is the Arduino code. An ISP header on the board allows the microcontroller to be programmed directly. The code was written by Jan Ostman. The Features section has links to Jan's source code.
 
 ### drums_xx.brd and .sch
 These are the Eagle files for the PCB. To order PCBs, gerbers need to be generated using a CAM job in Eagle. A free version of Eagle is available that can do this. Both the latin and western drums use the same board, the only difference is the panel and code.
 
-### drumsParts_xx.md [Not Yet Complete]
+### drumsParts_xx.md
 This is the parts list. A Mouser BOM is available at in this file as well.
 
 ### westernDrums.ai and latinDrums.ai
