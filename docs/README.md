@@ -15,13 +15,13 @@ Utilizing an ATMega 328 chip, this module can be easily programmed with the Ardu
 
 # Western
 
-#### [Overview](#overview1) | [Design](#design1)
+#### [Overview](#overview ) | [Design](#design )
 
-### Overview1
+### Overview 
 
 Based on the DSP-8 drum voice chip, this module offers 8 polyphonic drum sounds in a small package. Featuring bass, open hat, closed hat, ride, rim shot, snare, clap, and crash sounds, each voice can be triggered individually, and the rim shot, clap, crash, snare, closed hat and open hat can be individually tuned.
 
-### Design1
+### Design 
 
 Utilizing an ATMega 328 chip, this module can be easily programmed with the Arduino IDE and an ISP Programmer. A 7805 regulator removes the need for a 5v rail on your PSU, and as an all digital module the current draw is very low. The code used was written by Jan Osterman. I have chosen to rehost Jan's code as his hosting method causes numerous compilation errors.
 
